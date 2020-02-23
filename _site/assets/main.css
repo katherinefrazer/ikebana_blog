@@ -12,7 +12,7 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 14px/1.5 "Andale Mono", AndaleMono, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #111;
+  color: #2D2D2D;
   background-color: #E0EAE0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -81,7 +81,7 @@ a {
   a:visited {
     color: #5f8760; }
   a:hover {
-    color: #111;
+    color: #2D2D2D;
     text-decoration: underline; }
   .social-media-list a:hover {
     text-decoration: none; }
@@ -92,8 +92,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
+  color: #828881;
+  border-left: 4px solid #eaebea;
   padding-left: 15px;
   font-size: 15.75px;
   letter-spacing: -1px;
@@ -107,7 +107,7 @@ blockquote {
 pre,
 code {
   font-size: 13.125px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid #eaebea;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -154,7 +154,7 @@ pre {
   width: 16px;
   height: 16px;
   display: inline-block;
-  fill: #828282;
+  fill: #828881;
   padding-right: 5px;
   vertical-align: text-top; }
 
@@ -168,26 +168,26 @@ table {
   margin-bottom: 30px;
   width: 100%;
   text-align: left;
-  color: #3f3f3f;
+  color: #5b5b5b;
   border-collapse: collapse;
-  border: 1px solid #e8e8e8; }
+  border: 1px solid #eaebea; }
   table tr:nth-child(even) {
-    background-color: #f7f7f7; }
+    background-color: #fafafa; }
   table th, table td {
     padding: 10px 15px; }
   table th {
-    background-color: #f0f0f0;
-    border: 1px solid #dedede;
-    border-bottom-color: #c9c9c9; }
+    background-color: #f2f3f2;
+    border: 1px solid #e0e1df;
+    border-bottom-color: #cbcdca; }
   table td {
-    border: 1px solid #e8e8e8; }
+    border: 1px solid #eaebea; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #87AB88;
+  border-bottom: 1px solid #eaebea;
   min-height: 55.95px;
   position: relative; }
 
@@ -199,7 +199,7 @@ table {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #434743; }
 
 .site-nav {
   float: right;
@@ -209,7 +209,7 @@ table {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #2D2D2D;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -219,7 +219,7 @@ table {
       top: 9px;
       right: 15px;
       background-color: #E0EAE0;
-      border: 1px solid #e8e8e8;
+      border: 1px solid #eaebea;
       border-radius: 5px;
       text-align: right; }
       .site-nav label[for="nav-trigger"] {
@@ -238,7 +238,7 @@ table {
         padding-top: 10px;
         text-align: center; }
         .site-nav .menu-icon > svg {
-          fill: #424242; }
+          fill: #434743; }
       .site-nav input ~ .trigger {
         clear: both;
         display: none; }
@@ -256,7 +256,7 @@ table {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #eaebea;
   padding: 30px 0; }
 
 .footer-heading {
@@ -270,7 +270,7 @@ table {
 
 .footer-col-wrapper {
   font-size: 13.125px;
-  color: #828282;
+  color: #828881;
   margin-left: -15px; }
 
 .footer-col {
@@ -325,7 +325,7 @@ table {
 
 .post-meta {
   font-size: 12.25px;
-  color: #828282; }
+  color: #828881; }
 
 .post-link {
   display: block;
