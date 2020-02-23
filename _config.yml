@@ -27,12 +27,15 @@ url: "http://ikebana.website" # the base hostname & protocol for your site, e.g.
 twitter_username: brb_irl
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
 url: katherinefrazer.github.io
 baseurl: /
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
