@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Freestyle Ka-bu-wa-ke
+title:  The Fifty Principles of Sogetsu
 date:   2020-02-25 17:27:24 -0800
 categories: principles-of-sogetsu, textbook
 ---
