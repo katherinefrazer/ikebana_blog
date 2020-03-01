@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to my Ikebana blog.
+<img src="/assets/home-page.png">

@@ -12,19 +12,19 @@ Levels three and four provide you “themes” for each lesson, but the flowers,
 
 In curriculum levels 3 and 4, the textbook explains,
 > Now, the door is open for your free self-expression through Ikebana.
-
+>
 > In ‘Sogetsu Textbook 1&2’, you learned, through *Kakeiho*, how one basic style can be made into many variations only with slight changes to create different shapes and space, and you acquired the basic techniques for making the arrangements.
-
+>
 > In this text titled ‘Sogetsu Textbook 3&4’, you will deepen your understanding of Ikebana studies by proceeding to the curricula which are mainly on the three Ikebana elements of Line, Color and Mass.
-
+>
 > In the process of creating Ikebana using plants, these three elements of Line, Color and Mass are the most important.
-
+>
 > In other words, Ikebana is to make compositions using the materials with full awareness of Line, Color and Mass, specifically, by emphasizing the beautiful lines of the stems, by presenting the well-coordinated colors of the flowers for their color combination, or by massing flowers to express the sense of volume, for example. In a sense, by looking at the materials carefully, to find out their attractiveness from the viewpoint of these three elements and to create new beauty in what Ikebana is all about.
-
+>
 > There are countless varieties of plants and what’s more fresh plants are not the only materials used in Ikebana. Depending on the placing of the arrangement, its shape can change. It is time for you to gradually get to know how Ikebana itself owns its space, at the same time, it is closely related to where it is placed.
-
-> From this stage, it is more and more important to deeply look into yourself as you study further. By repeatedly asing yourself, ‘What do I like most?’ ‘What do I want to express and how?’, your Ikebana world will open up.
-
+>
+> From this stage, it is more and more important to deeply look into yourself as you study further. By repeatedly asking yourself, ‘What do I like most?’ ‘What do I want to express and how?’, your Ikebana world will open up.
+>
 > There is no such thing as only one ‘Answer’ in Ikebana. The answers can be as many as the number of people who make Ikebana. Sogetsu Ikebana means an Ikebana which can be made only by you.
 
 Each lesson within the 3&4 textbook curriculum proposes a theme to work with. What materials, vases, etc. you use is totally up to you. I’m excited to develop my practice and see where this goes!

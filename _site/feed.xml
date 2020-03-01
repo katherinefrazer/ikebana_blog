@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-29T16:04:17-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ikebana.website</title><subtitle>Katherine's personal Sogestu Ikebana blog.</subtitle><entry><title type="html">Ikebana Tips for Software Design</title><link href="http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design.html" rel="alternate" type="text/html" title="Ikebana Tips for Software Design" /><published>2020-02-29T13:39:00-08:00</published><updated>2020-02-29T13:39:00-08:00</updated><id>http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design</id><content type="html" xml:base="http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design.html">&lt;h1 id=&quot;based-on-the-50-principles-of-sogetsu-by-sofu-teshigahara&quot;&gt;Based on &lt;em&gt;The 50 Principles of Sogetsu&lt;/em&gt; by Sofu Teshigahara&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-01T09:41:16-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ikebana.website</title><subtitle>Katherine's personal Sogestu Ikebana blog.</subtitle><entry><title type="html">Ikebana Tips for Software Design</title><link href="http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design.html" rel="alternate" type="text/html" title="Ikebana Tips for Software Design" /><published>2020-02-29T13:39:00-08:00</published><updated>2020-02-29T13:39:00-08:00</updated><id>http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design</id><content type="html" xml:base="http://localhost:4000/talk/2020/02/29/ikebana-tips-for-software-design.html">&lt;h1 id=&quot;based-on-the-50-principles-of-sogetsu-by-sofu-teshigahara&quot;&gt;Based on &lt;em&gt;The 50 Principles of Sogetsu&lt;/em&gt; by Sofu Teshigahara&lt;/h1&gt;
 
 &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
 &lt;p&gt;My manager at my job encouraged me to sign up for a quarterly lightning talk series at work. The presentation format is pretty casual – just five minutes to discuss whatever you’d like.&lt;/p&gt;
 
-&lt;p&gt;I have to admit, the process for developing a topic was pretty difficult! Originally, I wanted to dissect “The Cloud” as a metaphor for the web, and propose new metaphors we could use (inspired by Laurel Schwulst’s &lt;a href=&quot;https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/&quot;&gt;My Website is a Shifting House Next to a River of Knowledge&lt;/a&gt; to think about personal websites. Laurel’s essay changed how I think about websites, and in some way is probably indirectly responsible for this blog). I worked on this idea for the talk for probably 20 hours and felt extremely frustrated by the lack of progress.&lt;/p&gt;
+&lt;p&gt;I have to admit, the process for developing a topic was pretty difficult! Originally, I wanted to dissect “The Cloud” as a metaphor for the web, and propose new metaphors we could use (inspired by Laurel Schwulst’s &lt;a href=&quot;https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/&quot;&gt;My Website is a Shifting House Next to a River of Knowledge&lt;/a&gt;) to think about personal websites. Laurel’s essay changed how I think about websites, and in some way is probably indirectly responsible for this blog. I worked on this idea for the talk for probably 20 hours and felt extremely frustrated by the lack of progress.&lt;/p&gt;
 
 &lt;p&gt;Two days before the talk, someone asked me why I didn’t just talk about ikebana. That was the first idea I had weeks ago, but it just seemed really cliche. For some reason, hearing it a second time around from another person helped me reframe the idea. Maybe I just needed to spin my wheels for a while?&lt;/p&gt;
 
@@ -162,46 +162,32 @@
   &lt;li&gt;Remember there are always new, surprising themes and approaches to arranging ikebana.&lt;/li&gt;
   &lt;li&gt;The four principles of ikebana are a fresh approach, movement, balance and harmony. The three elements are line, color and mass.&lt;/li&gt;
   &lt;li&gt;Cultivate an eye for appreciation and a hand for creation. A sense of balance is essential. This can only be achieved through constant practice.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><summary type="html">The Fifty Principles of Sogetsu by Sofu Teshigahara</summary></entry><entry><title type="html">Freestyle Ka-bu-wa-ke</title><link href="http://localhost:4000/moribana/third-level/2020/02/16/arrangement.html" rel="alternate" type="text/html" title="Freestyle Ka-bu-wa-ke" /><published>2020-02-16T13:31:24-08:00</published><updated>2020-02-16T13:31:24-08:00</updated><id>http://localhost:4000/moribana/third-level/2020/02/16/arrangement</id><content type="html" xml:base="http://localhost:4000/moribana/third-level/2020/02/16/arrangement.html">&lt;p&gt;Yesterday I made a ka-bu-wa-ke arrangement.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">The Fifty Principles of Sogetsu by Sofu Teshigahara</summary></entry><entry><title type="html">Freestyle Ka-bu-wa-ke</title><link href="http://localhost:4000/moribana/third-level/2020/02/16/ka-bu-wa-ke-arrangement.html" rel="alternate" type="text/html" title="Freestyle Ka-bu-wa-ke" /><published>2020-02-16T13:31:24-08:00</published><updated>2020-02-16T13:31:24-08:00</updated><id>http://localhost:4000/moribana/third-level/2020/02/16/ka-bu-wa-ke-arrangement</id><content type="html" xml:base="http://localhost:4000/moribana/third-level/2020/02/16/ka-bu-wa-ke-arrangement.html">&lt;p&gt;Yesterday I made a ka-bu-wa-ke arrangement.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/ka-bu-wa-ke.png&quot; alt=&quot;ka-bu-wa-ke arrangement&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The description from my text book reads,&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;make an arrangement with two or more Kenzans in a container for Moribana. The key points of this lesson is to pay attention to the space between Kabu, or groups, which are composed on their respective Kenzans.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;p&gt;Make an arrangement with two or more Kenzans in a container for Moribana. The key points of this lesson is to pay attention to the space between Kabu, or groups, which are composed on their respective Kenzans.&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In Variation No.5 style, you have already learned the composition of arranging the main stems on separate Kenzans in a container. The subject of this lesson which is “Ka-bu-wa-ke” is not about placing the main stems on separate Kenzans.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;The Kenzans can be placed in any separated positions. Unlike Variation No.5 style, they can be placed parallel or symmetrically. It is important to create space with artistic tension between separate Kabu. Keep it in mind to show the water, yet Kenzans must be neatly covered by the materials.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;The tips of the materials can either be crossing or apart.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Yesterday I made a ka-bu-wa-ke arrangement.</summary></entry><entry><title type="html">Horizontal Composition</title><link href="http://localhost:4000/moribana/third-level/2020/02/01/arrangement.html" rel="alternate" type="text/html" title="Horizontal Composition" /><published>2020-02-01T13:04:24-08:00</published><updated>2020-02-01T13:04:24-08:00</updated><id>http://localhost:4000/moribana/third-level/2020/02/01/arrangement</id><content type="html" xml:base="http://localhost:4000/moribana/third-level/2020/02/01/arrangement.html">&lt;p&gt;&lt;img src=&quot;/assets/horizontal-arrangement.png&quot; alt=&quot;horizontal arrangement&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name></name></author><summary type="html">Yesterday I made a ka-bu-wa-ke arrangement.</summary></entry><entry><title type="html">Horizontal Composition</title><link href="http://localhost:4000/moribana/third-level/2020/02/01/horizontal-composition.html" rel="alternate" type="text/html" title="Horizontal Composition" /><published>2020-02-01T13:04:24-08:00</published><updated>2020-02-01T13:04:24-08:00</updated><id>http://localhost:4000/moribana/third-level/2020/02/01/horizontal-composition</id><content type="html" xml:base="http://localhost:4000/moribana/third-level/2020/02/01/horizontal-composition.html">&lt;p&gt;&lt;img src=&quot;/assets/horizontal-arrangement.png&quot; alt=&quot;horizontal arrangement&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today I created a horizontal composition. The description from my textbook reads,&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Compose an arrangement which extended horizontally.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;The arrangement can be extended both right and left, or only to one side horizontally. There is no particular rule as to the ratio between the vertical length and the horizontal width for the arrangement; the only requirement is to have an overall horizontal composition. In this lesson, you can arrange either &lt;em&gt;Moribana&lt;/em&gt; or &lt;em&gt;Nageire&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Remembmer that the arrangement may not be balanced if too many materials are clumped on one side. Use “&lt;em&gt;Tate-no-soegi-dome,&lt;/em&gt;” “&lt;em&gt;Jumonji-dome,&lt;/em&gt;” or “&lt;em&gt;Jika-dome&lt;/em&gt;” to fix the materials securely in &lt;em&gt;Nageire&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;p&gt;Remember that the arrangement may not be balanced if too many materials are clumped on one side. Use “&lt;em&gt;Tate-no-soegi-dome,&lt;/em&gt;” “&lt;em&gt;Jumonji-dome,&lt;/em&gt;” or “&lt;em&gt;Jika-dome&lt;/em&gt;” to fix the materials securely in &lt;em&gt;Nageire&lt;/em&gt;.&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;This lesson, as well as “Vertical Composition”, will give you a good chance to observe the plants carefully and discover the characteristics.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In &lt;em&gt;Moribana&lt;/em&gt;, do not forget to finish the base part neatly so that the &lt;em&gt;Kenzan&lt;/em&gt; is not shown.&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My First Post</title><link href="http://localhost:4000/first,/third-level/2020/01/25/my-first-post.html" rel="alternate" type="text/html" title="My First Post" /><published>2020-01-25T23:53:24-08:00</published><updated>2020-01-25T23:53:24-08:00</updated><id>http://localhost:4000/first,/third-level/2020/01/25/my-first-post</id><content type="html" xml:base="http://localhost:4000/first,/third-level/2020/01/25/my-first-post.html">&lt;p&gt;This is the first post of my new ikebana blog. I’m excited to share my ikebana journey with you! It made sense to me to start this now, because I’m now in the third level (out of five) curriculum.&lt;/p&gt;
 
@@ -212,33 +198,19 @@
 &lt;p&gt;In curriculum levels 3 and 4, the textbook explains,&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Now, the door is open for your free self-expression through Ikebana.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In ‘Sogetsu Textbook 1&amp;amp;2’, you learned, through &lt;em&gt;Kakeiho&lt;/em&gt;, how one basic style can be made into many variations only with slight changes to create different shapes and space, and you acquired the basic techniques for making the arrangements.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In this text titled ‘Sogetsu Textbook 3&amp;amp;4’, you will deepen your understanding of Ikebana studies by proceeding to the curricula which are mainly on the three Ikebana elements of Line, Color and Mass.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In the process of creating Ikebana using plants, these three elements of Line, Color and Mass are the most important.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;In other words, Ikebana is to make compositions using the materials with full awareness of Line, Color and Mass, specifically, by emphasizing the beautiful lines of the stems, by presenting the well-coordinated colors of the flowers for their color combination, or by massing flowers to express the sense of volume, for example. In a sense, by looking at the materials carefully, to find out their attractiveness from the viewpoint of these three elements and to create new beauty in what Ikebana is all about.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;There are countless varieties of plants and what’s more fresh plants are not the only materials used in Ikebana. Depending on the placing of the arrangement, its shape can change. It is time for you to gradually get to know how Ikebana itself owns its space, at the same time, it is closely related to where it is placed.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;From this stage, it is more and more important to deeply look into yourself as you study further. By repeatedly asing yourself, ‘What do I like most?’ ‘What do I want to express and how?’, your Ikebana world will open up.&lt;/p&gt;
-&lt;/blockquote&gt;
+  &lt;p&gt;From this stage, it is more and more important to deeply look into yourself as you study further. By repeatedly asking yourself, ‘What do I like most?’ ‘What do I want to express and how?’, your Ikebana world will open up.&lt;/p&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;There is no such thing as only one ‘Answer’ in Ikebana. The answers can be as many as the number of people who make Ikebana. Sogetsu Ikebana means an Ikebana which can be made only by you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -249,16 +221,10 @@
 &lt;p&gt;My textbook reads,&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Everything begins with looking at the materials carefully. Be conscious of the beauty of the natural lines which the plants originally have and their power which reaches upwards.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;There is no rule as to the ratio between vertical length and the horizontal width for this arrangement, as long as it has an overall vertical composition. In this lesson, make an arrangement in &lt;em&gt;Moribana&lt;/em&gt;. The composition needs to express the power of the plants’ upward thrust.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;What is important here is to be free of fixed styles of &lt;em&gt;Kakeiho&lt;/em&gt;. Develop your ideas of what and how you want to arrange, and try to make an arrangement based on these ideas.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;blockquote&gt;
   &lt;p&gt;The plants do not necessarily have to stand upright. Be sure to finish the base part neatly so that the &lt;em&gt;Kenzans&lt;/em&gt; are not shown.&lt;/p&gt;
 &lt;/blockquote&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
