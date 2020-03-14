@@ -4,11 +4,11 @@ title:  My First Post
 date:   2020-01-25 23:53:24 -0800
 categories: first, third-level
 ---
-This is the first post of my new ikebana blog. I’m excited to share my ikebana journey with you! It made sense to me to start this now, because I’m now in the third level (out of five) curriculum.
+This is the first post of my new ikebana blog. I’m excited to share my ikebana journey with you! I’ve been studying ikebana (and more specifically, Sogetsu ikebana) since September, 2017. As I understand it, Sogetsu ikebana is a little new school and more avant garde than traditional ways of thinking about ikebana. You can use any type of material (though my experience has largely been with flowers), and there’s a lot of freedom in how and where you construct an arrangement.
 
-The first two levels of curriculum are for establishing basic competency. The arrangements are pre-planned for you, and you follow diagrams that lay out the correct proportion and position of the flowers.
+However, the practice follows a rigid curriculum with five levels to complete. Beginners study levels 1 and 2, which are for establishing basic competency. The arrangements are pre-planned for you, and you follow diagrams that lay out the correct proportion and position of the flowers.
 
-Levels three and four provide you “themes” for each lesson, but the flowers, vases, etc. you use to create an arrangement that follows the theme is totally up to you. This means I have full creative control of each arrangement. I’d like to document this practice and see how I develop with this newfound freedom!
+Levels 3 and 4 provide you “themes” for each lesson, but the flowers, vases, etc. you use to create an arrangement that follows the theme is totally up to you. I’ve just begun level 3. It made sense to me to start this blog now, because I have full creative control of each arrangement. I’d like to document this practice and see how I develop with this newfound freedom!
 
 In curriculum levels 3 and 4, the textbook explains,
 > Now, the door is open for your free self-expression through Ikebana.
@@ -27,4 +27,6 @@ In curriculum levels 3 and 4, the textbook explains,
 >
 > There is no such thing as only one ‘Answer’ in Ikebana. The answers can be as many as the number of people who make Ikebana. Sogetsu Ikebana means an Ikebana which can be made only by you.
 
-Each lesson within the 3&4 textbook curriculum proposes a theme to work with. What materials, vases, etc. you use is totally up to you. I’m excited to develop my practice and see where this goes!
+Lastly, level 5 is mastery. Once you complete level 5, you are able to teach Sogetsu ikebana to others.
+
+I’m excited to develop my practice and see where this goes!
