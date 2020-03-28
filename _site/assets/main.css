@@ -95,7 +95,7 @@ blockquote {
   color: #87AB88;
   border-left: 4px solid #87AB88;
   padding-left: 15px;
-  font-size: 14px;
+  font-size: 15.75px;
   letter-spacing: -1px;
   font-style: italic; }
   blockquote > :last-child {
@@ -312,10 +312,10 @@ table {
   flex: 1; }
 
 .page-heading {
-  font-size: 24px; }
+  font-size: 28px; }
 
 .post-list-heading {
-  font-size: 24px; }
+  font-size: 24.5px; }
 
 .post-list {
   margin-left: 0;
@@ -324,20 +324,19 @@ table {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
-  color: #828881;
-}
+  font-size: 12.25px;
+  color: #828881; }
 
 li .post-meta {
   display: inline-block;
   float: left;
   margin-right: 15px;
-  width: 115px; 
-}
+  width: 115px; }
 
 .post-link {
   display: block;
-  font-size: 14px; }
+  font-size: 12.25px;
+  /*@include relative-font-size(1.5);*/ }
 
 /**
  * Posts
@@ -346,7 +345,7 @@ li .post-meta {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 24px;
+  font-size: 36.75px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
