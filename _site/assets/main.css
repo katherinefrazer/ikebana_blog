@@ -315,7 +315,7 @@ table {
   font-size: 28px; }
 
 .post-list-heading {
-  font-size: 24.5px; }
+  font-size: 17.5px; }
 
 .post-list {
   margin-left: 0;
@@ -345,7 +345,7 @@ li .post-meta {
   margin-bottom: 20px; }
 
 .post-title {
-  font-size: 36.75px;
+  font-size: 36.68px;
   letter-spacing: -1px;
   line-height: 1; }
   @media screen and (max-width: 800px) {
