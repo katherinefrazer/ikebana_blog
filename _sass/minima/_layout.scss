@@ -42,7 +42,7 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: $spacing-unit;
     }
   }
 
@@ -95,7 +95,7 @@
       &:not(:last-child) {
         margin-right: 0;
       }
-      margin-left: 20px;
+      margin-left: $spacing-unit;
     }
   }
 }
@@ -198,7 +198,7 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  font-size: $base-font-size;
   color: $grey-color;
 }
 
@@ -212,7 +212,7 @@ li .post-meta {
 
 .post-link {
   display: block;
-  font-size: $small-font-size;
+  font-size: $base-font-size;
   /*@include relative-font-size(1.5);*/
 }
 

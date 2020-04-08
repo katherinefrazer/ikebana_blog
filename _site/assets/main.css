@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 .highlight {
-  margin-bottom: 15px; }
+  margin-bottom: 10px; }
 
 /**
  * `main` element
@@ -60,7 +60,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-  margin-left: 30px; }
+  margin-left: 20px; }
 
 li > ul,
 li > ol {
@@ -94,7 +94,7 @@ a {
 blockquote {
   color: #87AB88;
   border-left: 4px solid #87AB88;
-  padding-left: 15px;
+  padding-left: 10px;
   font-size: 15.75px;
   letter-spacing: -1px;
   font-style: italic; }
@@ -126,18 +126,18 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(800px - (20px * 2));
+  max-width: calc(800px - (20px * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
+  padding-right: 20px;
+  padding-left: 20px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+      max-width: -webkit-calc(800px - (20px));
+      max-width: calc(800px - (20px));
+      padding-right: 10px;
+      padding-left: 10px; } }
 
 /**
  * Clearfix
@@ -165,7 +165,7 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   width: 100%;
   text-align: left;
   color: #5b5b5b;
@@ -174,7 +174,7 @@ table {
   table tr:nth-child(even) {
     background-color: #fafafa; }
   table th, table td {
-    padding: 10px 15px; }
+    padding: 6.6666666667px 10px; }
   table th {
     background-color: #f2f3f2;
     border: 1px solid #e0e1df;
@@ -188,7 +188,7 @@ table {
 .site-header {
   border-top: 5px solid #87AB88;
   border-bottom: 1px solid #eaebea;
-  min-height: 55.95px;
+  min-height: 37.3px;
   position: relative; }
 
 .site-title {
@@ -217,7 +217,7 @@ table {
     .site-nav {
       position: absolute;
       top: 9px;
-      right: 15px;
+      right: 10px;
       background-color: #E0EAE0;
       border: 1px solid #eaebea;
       border-radius: 5px;
@@ -257,11 +257,11 @@ table {
  */
 .site-footer {
   border-top: 1px solid #87AB88;
-  padding: 30px 0; }
+  padding: 20px 0; }
 
 .footer-heading {
   font-size: 15.75px;
-  margin-bottom: 15px; }
+  margin-bottom: 10px; }
 
 .contact-list,
 .social-media-list {
@@ -271,44 +271,44 @@ table {
 .footer-col-wrapper {
   font-size: 13.125px;
   color: #828881;
-  margin-left: -15px; }
+  margin-left: -10px; }
 
 .footer-col {
   float: left;
-  margin-bottom: 15px;
-  padding-left: 15px; }
+  margin-bottom: 10px;
+  padding-left: 10px; }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (30px / 2));
-  width: calc(35% - (30px / 2)); }
+  width: -webkit-calc(35% - (20px / 2));
+  width: calc(35% - (20px / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (30px / 2));
-  width: calc(20% - (30px / 2)); }
+  width: -webkit-calc(20% - (20px / 2));
+  width: calc(20% - (20px / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
+  width: -webkit-calc(45% - (20px / 2));
+  width: calc(45% - (20px / 2)); }
 
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (30px / 2));
-    width: calc(50% - (30px / 2)); }
+    width: -webkit-calc(50% - (20px / 2));
+    width: calc(50% - (20px / 2)); }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: -webkit-calc(100% - (20px / 2));
+    width: calc(100% - (20px / 2)); } }
 @media screen and (max-width: 600px) {
   .footer-col {
     float: none;
-    width: -webkit-calc(100% - (30px / 2));
-    width: calc(100% - (30px / 2)); } }
+    width: -webkit-calc(100% - (20px / 2));
+    width: calc(100% - (20px / 2)); } }
 /**
  * Page content
  */
 .page-content {
-  padding: 30px 0;
+  padding: 20px 0;
   flex: 1; }
 
 .page-heading {
@@ -321,10 +321,10 @@ table {
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 30px; }
+    margin-bottom: 20px; }
 
 .post-meta {
-  font-size: 12.25px;
+  font-size: 14px;
   color: #828881; }
 
 li .post-meta {
@@ -335,14 +335,14 @@ li .post-meta {
 
 .post-link {
   display: block;
-  font-size: 12.25px;
+  font-size: 14px;
   /*@include relative-font-size(1.5);*/ }
 
 /**
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  margin-bottom: 20px; }
 
 .post-title {
   font-size: 36.75px;
@@ -353,7 +353,7 @@ li .post-meta {
       font-size: 31.5px; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 20px; }
   .post-content h2 {
     font-size: 21px; }
     @media screen and (max-width: 800px) {
