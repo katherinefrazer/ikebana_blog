@@ -2,7 +2,7 @@
 layout: post
 title:  My First Post
 date:   2020-01-25 23:53:24 -0800
-categories: first, third-level
+categories: first third-level
 ---
 This is the first post of my new ikebana blog. I’m excited to share my ikebana journey with you! I’ve been studying ikebana (and more specifically, Sogetsu ikebana) since September, 2017. As I understand it, Sogetsu ikebana is a little new school and more avant garde than traditional ways of thinking about ikebana. You can use any type of material (though my experience has largely been with flowers), and there’s a lot of freedom in how and where you construct an arrangement.
 

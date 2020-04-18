@@ -2,9 +2,9 @@
 layout: post
 title:  Vertical Composition
 date:   2020-01-25 23:53:24 -0800
-categories: vertical, moribana, third-level
+categories: vertical moribana third-level
 ---
-![A vertical arrangement](/assets/vertical_arrangement.png)
+![A vertical arrangement](/assets/2020-01-25/vertical_arrangement.png)
 
 The first theme of the level three curriculum arrangement is “vertical composition”.
 

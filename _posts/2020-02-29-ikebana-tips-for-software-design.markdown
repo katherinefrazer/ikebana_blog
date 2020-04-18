@@ -21,19 +21,19 @@ I immediately thought of [Sofu Teshigahara’s *The 50 Principles of Sogetsu*](h
 You can download the original slides [here](https://www.dropbox.com/s/edeiy0vptzfi6pz/Ikebana%20Tips%20for%20Software%20Design.pdf?dl=0).
 
 
-![Title Slide](/assets/Cover.png)
+![Title Slide](/assets/2020-02-29/Cover.png)
 
-![About Sogetsu](/assets/Background1.png)
+![About Sogetsu](/assets/2020-02-29/Background1.png)
 
 I started studying ikebana at the end of 2017. When I first started, I didn’t realize there were different schools of thought (which seems really naive in hindsight). Unknowingly, I started taking classes in the Sogetsu school of Ikebana, started by Sofu Teshigahara in 1927. Sofu Teshigahara came from an ikebana family, so he was well-versed in the traditional school of thought around ikebana. Unusually, he also had prolific calligraphy and sculpture practices. His artistic breadth influenced his outlook on ikebana, and led to the creation of the Sogetsu school.
 
-![Sogetsu is avant garde](/assets/Background2.png)
+![Sogetsu is avant garde](/assets/2020-02-29/Background2.png)
 
 In short, Sogetsu is a more avant garde style of ikebana. Sofu Teshigahara had two kind of radical ideas about the role of ikebana in society:
 1. Ikebana can be made by anyone, anywhere, with any kind of materials.
 2. Ikebana is just like any other type of art form (tying back to his own artistic practice).
 
-![The Fifty Principles of Sogetsu](/assets/50Principles.png)
+![The Fifty Principles of Sogetsu](/assets/2020-02-29/50Principles.png)
 
 So, what do you do if you’re a loner with a new radical idea? You write a manifesto.
 
@@ -44,23 +44,23 @@ I found that these principles apply to several different creative disciplines, m
 I picked the most relevant ones for my workplace, making slight adjustments for my startup audience!
 
 
-![Ikebana arrangement next to text that reads, “Beautiful UI does not always make beautiful products.”](/assets/Tip1.png)
+![Ikebana arrangement next to text that reads, “Beautiful UI does not always make beautiful products.”](/assets/2020-02-29/Tip1.png)
 ### Beautiful ~~flowers~~ UI does not always make beautiful ~~ikebana~~ products.
 
 Individual UI elements may be attractive, visually consistent and well considered… but that’s not enough to create a compelling or successful product. Thinking of software as a bunch of individual components coming together compromises the holistic product vision.
 
 
-![Ikebana arrangement next to text that reads, “Do not be over-concerned about the result at the beginning of your studies.”](/assets/Tip2.png)
+![Ikebana arrangement next to text that reads, “Do not be over-concerned about the result at the beginning of your studies.”](/assets/2020-02-29/Tip2.png)
 ### Do not be over-concerned about the result at the beginning of your studies.
 Sofu did a good job with this one! No changes here.
 
 
-![Ikebana arrangement next to some text that reads, “The Spirit of software applies to all periods while the style of works may change over time.”](/assets/Tip3.png)
+![Ikebana arrangement next to some text that reads, “The Spirit of software applies to all periods while the style of works may change over time.”](/assets/2020-02-29/Tip3.png)
 
 ### The Spirit of ~~ikebana~~ software applies to all periods while the style of works may change over time.
 Software is a much newer medium than ikebana, but sometimes it’s shocking to see how little things have changed since the invention of the GUI. We still use the same desktop metaphors for our computers, and smart phones are largely unchanged since the first iPhone launched in 2007.
 
-![a recent arrangement](/assets/Tip4.png)
+![a recent arrangement](/assets/2020-02-29/Tip4.png)
 ### ~~Home is~~ Appstores are not the only setting for ~~ikebana~~ software. Consider places more personal as well as public.
 Sogetsu ikebana encourages all kinds of people to practice ikebana in all kinds of places.
 
@@ -75,11 +75,11 @@ However, I think there are more exciting possibilities around software meant for
 What if you build an app for one person to use one time? Or maybe for more people to use, but it has an expiration date? Can an app be an inside joke?
 
 
-![a recent arrangement](/assets/Tip5.png)
+![a recent arrangement](/assets/2020-02-29/Tip5.png)
 ### Complete ~~ikebana~~ designs from a ~~viewer’s~~ user’s standpoint.
 It’s important to think of the user every step of the software development process! This is a unique strength as a designer. Product decisions are made with the company’s interest in mind, and development decisions are made from a feasibility perspective. Design must flex it’s unique strength of advocating for the user.
 
-![a recent arrangement](/assets/Tip6.png)
+![a recent arrangement](/assets/2020-02-29/Tip6.png)
 ### ~~Ikebana~~ Software may be comparable to painting, music or sculpture.
 I thought it was important to end on this note. Software is a medium like any other. It can be a means to an end, or a way to engage creatively with any idea.
 

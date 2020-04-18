@@ -4,7 +4,7 @@ title:  Horizontal Composition
 date:   2020-02-01 13:04:24 -0800
 categories: moribana third-level
 ---
-![horizontal arrangement](/assets/horizontal-arrangement.png)
+![horizontal arrangement](/assets/2020-02-01/horizontal-arrangement.png)
 
 Today I created a horizontal composition. The description from my textbook reads,
 

@@ -6,7 +6,7 @@ categories: moribana third-level
 ---
 Yesterday I made a ka-bu-wa-ke arrangement. 
 
-![ka-bu-wa-ke arrangement](/assets/ka-bu-wa-ke.png)
+![ka-bu-wa-ke arrangement](/assets/2020-02-16/ka-bu-wa-ke.png)
 
 The description from my text book reads, 
 > Make an arrangement with two or more Kenzans in a container for Moribana. The key points of this lesson is to pay attention to the space between Kabu, or groups, which are composed on their respective Kenzans.
