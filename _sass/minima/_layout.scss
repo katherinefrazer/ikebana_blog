@@ -46,6 +46,18 @@
     }
   }
 
+
+  .post-date {
+    display:inline-block;
+    float: left;
+    margin-right: 10pt;
+  }
+
+  .post-title {
+    display: inline-block;
+    float: right;
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -206,6 +218,7 @@ li .post-meta {
   display: inline-block;
   float: left;
   margin-right: 15px;
+  margin-bottom: 10px;
   width: 115px; 
 }
 

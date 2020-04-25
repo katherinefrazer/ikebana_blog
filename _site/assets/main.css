@@ -213,6 +213,13 @@ table {
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
+  .site-nav .post-date {
+    display: inline-block;
+    float: left;
+    margin-right: 10pt; }
+  .site-nav .post-title {
+    display: inline-block;
+    float: right; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
@@ -331,6 +338,7 @@ li .post-meta {
   display: inline-block;
   float: left;
   margin-right: 15px;
+  margin-bottom: 10px;
   width: 115px; }
 
 .post-link {
