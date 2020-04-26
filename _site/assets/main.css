@@ -402,7 +402,7 @@ li .post-meta {
 
 .floating-image img {
   max-width: 300px;
-  border: 2mm ridge rgba(72, 117, 141, 0.6); }
+  border: 2mm ridge rgba(195, 212, 84, 0.6); }
 
 @media screen and (max-width: 700px) {
   .floating-image {
