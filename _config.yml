@@ -23,15 +23,15 @@ email: kfrazer@mac.com
 description: >- # this means to ignore newlines until "baseurl:"
   Katherine's personal Sogestu Ikebana blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ikebana.website" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ikebana.website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brb_irl
 
 # Build settings
 plugins:
   - jekyll-feed
 
-url: katherinefrazer.github.io
-baseurl: /
+url: ikebana.website
+baseurl: 
 
 plugins:
   - jekyll-feed
