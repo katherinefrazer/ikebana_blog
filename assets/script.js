@@ -22,7 +22,7 @@ const hideImage = (e) => {
 for (var i = 0; i < postLinks.length; i++) {
 	const link = postLinks[i]
    	if (link.getAttribute('data-image') != null){
-   		link.addEventListener("mouseover", showImage);
+   		link.addEventListener("mouseenter", showImage);
    		link.addEventListener("mouseleave", hideImage);
    	}
 }
