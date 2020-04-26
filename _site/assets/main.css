@@ -388,7 +388,8 @@ li .post-meta {
 .fi-container {
   width: 300px;
   position: absolute;
-  right: 0; }
+  right: 0;
+  visibility: hidden; }
 
 .floating-image {
   margin-left: 5%;
@@ -406,6 +407,9 @@ li .post-meta {
 @media screen and (max-width: 700px) {
   .floating-image {
     opacity: 0; } }
+@media (hover) {
+  .post-link:hover .fi-container {
+    visibility: visible; } }
 /**
  * Syntax highlighting styles
  */

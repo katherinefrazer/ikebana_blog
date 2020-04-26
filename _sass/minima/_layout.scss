@@ -290,6 +290,7 @@ li .post-meta {
   width: 300px;
   position: absolute;
   right: 0;
+  visibility: hidden;
 }
 
 .floating-image {
@@ -313,3 +314,10 @@ li .post-meta {
   }
 }
 
+@media (hover) {
+  .post-link:hover {
+  .fi-container {
+    visibility: visible;
+  } 
+}
+}

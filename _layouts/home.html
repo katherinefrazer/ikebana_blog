@@ -21,12 +21,12 @@ layout: default
       </div>
 
       <div class="post-title">
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}"  {%- if post.image -%}  data-image="{{ post.image }}" {%- endif -%}>
+        <h3 class="post-link">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
           {%- if post.image -%}
-          <div style="display: none;" class="fi-container">
+          <div class="fi-container">
             <div class="floating-image" style="">
               <img src="{{ post.image }}" />
             </div>
@@ -46,6 +46,4 @@ layout: default
   {%- endif -%}
 
 </div> 
-
-<script src="/assets/script.js?3"></script>
 
