@@ -1,7 +1,15 @@
 const postLinks = document.getElementsByClassName("post-link")
 
 const toggleImage = (element, shouldShow) => {
-	const imageContainer = element.nextElementSibling;
+	let imageContainer = null;
+	for (var i = 0; i < element.childNodes.length; i++) {
+		const child = element.childNodes[i]
+		if (child.className == "fi-container") {
+			imageContainer = child
+			break;
+		}	
+	}
+
 	if (shouldShow) {
 		imageContainer.style = "display: block;";
 	} else {
