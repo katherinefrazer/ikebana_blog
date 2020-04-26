@@ -30,7 +30,7 @@ twitter_username: brb_irl
 plugins:
   - jekyll-feed
 
-url: ikebana.website
+url: https://ikebana.website
 baseurl: 
 
 plugins:
