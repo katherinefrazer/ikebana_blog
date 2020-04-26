@@ -20,11 +20,13 @@ const toggleImage = (element, shouldShow) => {
 const showImage = (e) => {
  const element = e.target;
  toggleImage(element, true);
+ e.preventDefault();
 }
 
 const hideImage = (e) => {
  const element = e.target;
  toggleImage(element, false);
+ e.preventDefault();
 }
 
 for (var i = 0; i < postLinks.length; i++) {
