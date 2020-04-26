@@ -3,6 +3,7 @@ layout: post
 title:  Plants and Dreams
 date:   2020-04-17 23:16:00 -0800
 categories: net-art wrong-bienniale not-ikebana
+image: /assets/2020-04-17/habitat.png
 ---
 With the world shut down due to the Coronavirus epidemic, I've had no opportunities to create ikebana. This makes me sad for a number of reasons... Selfishly, I miss this regular creative outlet I had. Classes with my teacher are understandably postponed until further notice. More concerning though, I believe the flower mart in San Francisco is closed and unlikely to reopen in the future. If you're able to, [please consider donating](https://www.gofundme.com/f/sf-flower-mart-vendor-payroll-assistance-covid19) so they can continue paying their staff. 
 

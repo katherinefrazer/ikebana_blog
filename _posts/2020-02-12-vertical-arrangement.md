@@ -3,6 +3,7 @@ layout: post
 title:  Vertical Composition
 date:   2020-01-25 23:53:24 -0800
 categories: vertical moribana third-level
+image: /assets/2020-01-25/vertical_arrangement.png
 ---
 ![A vertical arrangement](/assets/2020-01-25/vertical_arrangement.png)
 

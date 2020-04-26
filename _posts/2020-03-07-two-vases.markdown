@@ -3,6 +3,7 @@ layout: post
 title:  Two Vase Composition
 date:   2020-03-12 21:40:00 -0800
 categories: vertical, moribana, third-level
+image: /assets/2020-03-12/two-vases.jpeg
 ---
 ![An ikebana arrangement made up of two vases](/assets/2020-03-12/two-vases.jpeg)
 

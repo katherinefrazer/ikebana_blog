@@ -22,9 +22,16 @@ layout: default
 
       <div class="post-title">
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.url | relative_url }}" {%- if post.image -%} data-image="{{ post.image }}" {%- endif -%}>
             {{ post.title | escape }}
           </a>
+          {%- if post.image -%}
+          <div style="display: none;" class="fi-container">
+            <div class="floating-image" style="">
+              <img src="{{ post.image }}" />
+            </div>
+          </div>
+          {%- endif -%}
         </h3>
       </div>
       
@@ -38,4 +45,7 @@ layout: default
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
-</div>
+</div> 
+
+<script src="/assets/script.js"></script>
+

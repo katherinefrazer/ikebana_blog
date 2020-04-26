@@ -3,6 +3,7 @@ layout: post
 title:  Freestyle Ka-bu-wa-ke
 date:   2020-02-16 13:31:24 -0800
 categories: moribana third-level
+image: /assets/2020-02-16/ka-bu-wa-ke.png
 ---
 Yesterday I made a ka-bu-wa-ke arrangement. 
 

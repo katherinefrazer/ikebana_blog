@@ -3,6 +3,7 @@ layout: post
 title:  Ikebana Tips for Software Design
 date:   2020-02-29 13:39:00 -0800
 categories: talk
+image: /assets/2020-02-29/Tip1.png
 ---
 # Based on *The 50 Principles of Sogetsu* by Sofu Teshigahara
 

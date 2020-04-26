@@ -206,6 +206,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    line-height: 1;
   }
 }
 
@@ -275,3 +276,40 @@ li .post-meta {
     }
   }
 }
+
+
+/* Floating image code */
+
+.post-title h3 {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.fi-container {
+  width: 300px;
+  position: absolute;
+  right: 0;
+}
+
+.floating-image {
+  margin-left: 5%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: -125px;
+  height: 250px;
+  position: absolute;
+}
+.floating-image img {
+  max-width: 300px;
+  border: 2mm ridge rgba(72, 117, 141, .6);
+}
+
+
+@media screen and (max-width: 700px) {
+  .floating-image {
+    opacity: 0;
+  }
+}
+
