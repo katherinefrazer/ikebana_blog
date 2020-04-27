@@ -3,8 +3,9 @@
  */
 .site-header {
   border-top: 5px solid $brand-color;
-  border-bottom: 1px solid $grey-color-light;
+  // border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+  // background: #BDDCB2;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -20,7 +21,15 @@
 
   &,
   &:visited {
+    // color: $grey-color-dark;
+    color: $brand-color;
+
+  }
+
+  &:hover {
     color: $grey-color-dark;
+    border-bottom: 2px #87AB88 dotted;
+    text-decoration: none;
   }
 }
 
@@ -37,12 +46,16 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: $spacing-unit;
+    }
+
+    &:hover {
+      color: $grey-color-dark;
     }
   }
 
@@ -147,13 +160,13 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+  width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
@@ -227,10 +240,10 @@ li .post-meta {
 .post-link {
   display: block;
   font-size: $base-font-size;
+  text-decoration: none;
+  border-bottom: 2px #BAD9AC dotted;
   /*@include relative-font-size(1.5);*/
 }
-
-
 
 /**
  * Posts
@@ -287,6 +300,7 @@ li .post-meta {
 }
 
 .fi-container {
+  z-index: 3;
   width: 300px;
   position: absolute;
   right: 0;

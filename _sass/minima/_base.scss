@@ -116,8 +116,11 @@ a {
       text-decoration: underline;
     }
   }
-}
 
+  .post-link &:hover {
+    text-decoration: none;
+  }
+}
 
 /**
  * Blockquotes
