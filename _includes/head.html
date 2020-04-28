@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="{{ "/favicon.png" | prepend: site.baseurl | prepend: site.url }}" />
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
@@ -10,6 +11,6 @@
   {%- endif -%}
   {%- if jekyll.environment == 'production' -%}
   <script data-goatcounter="https://ikebanawebsite.goatcounter.com/count" async src="//gc.zgo.at/count.js"/>
-  {%- endif -%}
-</script>
+    {%- endif -%}
+  </script>
 </head>
