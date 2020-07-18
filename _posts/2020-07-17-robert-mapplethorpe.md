@@ -31,4 +31,4 @@ His flower photography is really beautiful, and I thought I’d share some with 
 
 ![Two lillies in the bottom right corner, on a scrunched up cloth background](/assets/2020-07-17/mapplethorpe7.jpeg)
 
-Images are taken from *Pistils* (1996), *Mapplethorpe Flora: The Complete Flowers* (2016), and *Flowers* (1990).
+Images are taken from *Pistils* (1996), *Mapplethorpe Flora: The Complete Flowers* (2016), and *Flowers* (1990), and shot on my phone (so I apologize for the poor image quality).
