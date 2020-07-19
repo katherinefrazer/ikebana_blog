@@ -21,4 +21,4 @@ When I make a freestyle arrangement, I try to introduce one new element each tim
 
 I also decided to employ a technique my ikebana teacher taught me. The eucalyptus portion of the arrangement is comprised of 3 eucalyptus branches that I piled on top of each other, to give the effect of pretty even leaves/foliage throughout the length of the branches. The intent is to create the illusion of one, extra leafy branch.
 
-I am excited that it’s much easier than I realized to get flowers. I’ll hopefully be posting more consistently in the future – ikebana is one of the most ideal activities for a quarantine world.
+Creating these arrangements was pretty fun, and slightly more challenging than a traditional Moribana arrangement. I am super excited to discover this new flower shop in my neighborhood. I’ll hopefully be posting more consistently in the future, since it’s now so easy to get materials! …Ikebana is one of the most ideal activities for a quarantine world.
