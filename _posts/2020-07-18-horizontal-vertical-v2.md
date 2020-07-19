@@ -2,7 +2,7 @@
 layout: post
 title:  Vertical & Horizontal Arrangements (v2)
 date:   2020-07-18 23:02:00 -0800
-categories: art photography books not-ikebana
+categories: freestyle ikebana
 image: /assets/2020-07-18/vertical.jpeg
 ---
 Yesterday I discovered a new flower shop in my neighborhood. I mainly get my flowers from the SF Flower Mart in SOMA, but I believe it’s closed until further notice. Stumbling across this tiny flower shop in my neighborhood made my day! 
