@@ -24,6 +24,11 @@ Her work is incredible. I thought I’d share a small set of images I found onli
 
 ![A floral arrangement made from a tree trunk, sunflowers and draping red flowers](/assets/2020-08-04/soho-sakai5.png)
 
+![A floral arrangement that uses a striped vase. Yellow flowers and green foliage come up from the base, while wooden bars are staggered horizontally across the foliage](/assets/2020-08-04/soho-sakai6.png)
+
+![A floral arrangement made red flowers standing vertically, with their leaves crossing them at a 45 degree angle](/assets/2020-08-04/soho-sakai7.png)
+
 Image credits:
 [One](https://ofad.design/2015-programs)
 [Two](https://www.ikebana.org/dt_gallery/may-2017-demonstration/sakai_s-2/)
+[Three](https://www.famsf.org/Bouquets-to-Art-Sakai)
