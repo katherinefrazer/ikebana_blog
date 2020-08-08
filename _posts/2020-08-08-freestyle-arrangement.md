@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Soho Sakai
+title:  Freestyle Arrangement
 date:   2020-08-08 14:50:00 -0800
 categories: freestyle arrangement
 image: /assets/2020-08-08/dahlia_freestyle.png
