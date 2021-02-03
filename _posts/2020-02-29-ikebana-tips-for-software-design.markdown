@@ -15,7 +15,7 @@ I have to admit, the process for developing a topic was pretty difficult! Origin
 
 Two days before the talk, someone asked me why I didn’t just talk about ikebana. That was the first idea I had weeks ago, but it just seemed really cliche. For some reason, hearing it a second time around from another person helped me reframe the idea. Maybe I just needed to spin my wheels for a while?
 
-I immediately thought of [Sofu Teshigahara’s *The 50 Principles of Sogetsu*](http://ikebana.website/principles-of-sogetsu,/textbook/2020/02/26/rules-for-ikebana.html) (which is why I posted them on this blog earlier in the week), and how they were highly relatable to any creative practice. I work at a software company making tools for designers, so it seemed natural to liken the software we build to another creative discipline.
+I immediately thought of [Sofu Teshigahara’s *The 50 Principles of Sogetsu*](http://ikebana.website/principles-of-sogetsu/textbook/2020/02/26/rules-for-ikebana.html) (which is why I posted them on this blog earlier in the week), and how they were highly relatable to any creative practice. I work at a software company making tools for designers, so it seemed natural to liken the software we build to another creative discipline.
 
 ## The Talk
 
@@ -38,7 +38,7 @@ In short, Sogetsu is a more avant garde style of ikebana. Sofu Teshigahara had t
 
 So, what do you do if you’re a loner with a new radical idea? You write a manifesto.
 
-Sofu Teshigahara wrote [*The 50 Principles of Sogetsu*](http://ikebana.website/principles-of-sogetsu,/textbook/2020/02/26/rules-for-ikebana.html) to lay out the philosophy, as well as practical tips for arranging flowers (I was unable to find the year this was published, but I assume around 1927, when Sogetsu became a thing).
+Sofu Teshigahara wrote [*The 50 Principles of Sogetsu*](http://ikebana.website/principles-of-sogetsu/textbook/2020/02/26/rules-for-ikebana.html) to lay out the philosophy, as well as practical tips for arranging flowers (I was unable to find the year this was published, but I assume around 1927, when Sogetsu became a thing).
 
 I found that these principles apply to several different creative disciplines, much in the spirit of his own views on ikebana.
 
